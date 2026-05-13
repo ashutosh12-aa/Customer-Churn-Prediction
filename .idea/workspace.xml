@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b82ed1b-5a2e-4f9f-9635-48e85421dcf6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Customer_Churn_Prediction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Customer_Churn_Prediction.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accuracy.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/accuracy.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/model.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
